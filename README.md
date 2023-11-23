@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # ruby_tutorial_with_vue
+# ruby_tutorial_with_vue
